@@ -1,0 +1,91 @@
+>>目標商品: 
+
+id: 
+name: Biore 蜜妮深層 卸妝棉_攜帶包10片 
+type: b (化妝品)
+price: 50元
+weight: 30g
+gender: female
+pic: 
+intro: 
+清除深藏毛孔中的底妝
+
+商品大圖: (640px*640px)
+https://live.staticflickr.com/65535/52217618280_62d582579c_o.jpg
+商品小圖: (160px*160px)
+https://live.staticflickr.com/65535/52217137236_873b6113d7_o.jpg
+商品廣告: (800px*500px) 
+https://live.staticflickr.com/65535/52217408934_a5bf519b3d_o.jpg
+
+>>綁定商品1: 
+
+id: 
+name: Kotex 靠得住 抑菌好眠褲(褲型衛生棉) 
+type: b (化妝品)
+price: 50元
+weight: 20g
+gender: female
+pic: 
+intro: 
+內褲般貼身，360度包覆防止外漏
+
+
+商品大圖: (640px*640px)
+https://live.staticflickr.com/65535/52217407139_6b4fe25005_o.jpg
+商品小圖: (160px*160px)
+https://live.staticflickr.com/65535/52217618455_043596f6d7_o.jpg
+商品廣告: (800px*500px)
+https://live.staticflickr.com/65535/52217408909_440dfaed2d_o.jpg
+
+
+>>綁定商品2: 
+
+id: 
+name: Kotex 靠得住 完美封漏經典完封夜用衛生棉
+type: b (化妝品)
+price: 60元
+weight: 20g
+gender: female
+pic: 
+intro: 
+99.9%抑菌力，安心睡過夜
+
+
+商品大圖: (640px*640px)
+https://live.staticflickr.com/65535/52217137056_9886f0d6c5_o.jpg
+商品小圖: (160px*160px)
+https://live.staticflickr.com/65535/52217407399_9fb17d0ac1_o.jpg
+商品廣告: (800px*500px)
+https://live.staticflickr.com/65535/52216129567_248617c267_o.jpg
+
+>>綁定商品3: 
+
+id: 
+name: 蕾妮亞 淨妍護墊 100%天然棉 
+type: b (化妝品)
+price: 60元
+weight: 20g
+gender: female
+pic: 
+intro: 
+100%天然棉表層、親柔細緻
+
+
+商品大圖: (640px*640px)
+https://live.staticflickr.com/65535/52217618275_38b8881a4c_o.jpg
+商品小圖: (160px*160px)
+https://live.staticflickr.com/65535/52217407379_7ea58f0a54_o.jpg
+商品廣告: (800px*500px)
+https://live.staticflickr.com/65535/52217138706_72e6e9aee2_o.jpg
+
+
+
+
+
+
+
+
+
+
+
+

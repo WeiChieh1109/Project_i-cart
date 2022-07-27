@@ -1,0 +1,93 @@
+>>目標商品: 
+
+id: 
+name: 善存維他命C 甜嚼錠 
+type: c (其他)
+price: 507元
+weight: 100g
+gender: other
+pic: 
+intro: 
+每錠相當於16顆檸檬的維他命C
+
+商品大圖: (640px*640px)
+https://live.staticflickr.com/65535/52217139826_947dccc628_o.jpg
+商品小圖: (160px*160px)
+https://live.staticflickr.com/65535/52217139561_cf34177c55_o.jpg
+商品廣告: (800px*500px) 
+https://live.staticflickr.com/65535/52217150573_1d62e9b057_o.jpg
+ 
+
+>>綁定商品1: 
+
+id: 
+name: 愛倫12年單一純麥威士忌 
+type: c (其他)
+price: 1200元
+weight: 750g
+gender: other
+pic: 
+intro: 
+擁有黑巧克力、燒烤橡木與烤蘋果的香氣
+
+
+商品大圖: (640px*640px)
+https://live.staticflickr.com/65535/52217409979_d66e645e7a_o.jpg
+商品小圖: (160px*160px)
+https://live.staticflickr.com/65535/52217139556_8ffc78d5e2_o.jpg
+商品廣告: (800px*500px) 
+https://live.staticflickr.com/65535/52216130292_7c1562bd16_o.jpg
+ 
+
+>>綁定商品2: 
+
+id: 
+name: 約翰走路黑牌12年調和威士忌1000ml
+type: c (其他)
+price: 750元
+weight: 1000g
+gender: other
+pic: 
+intro: 
+絲絨般的豐富醇厚口感，然後享受到迷人的煙燻味
+
+
+商品大圖: (640px*640px)
+https://live.staticflickr.com/65535/52216130747_a7a00c02f5_o.jpg
+商品小圖: (160px*160px)
+https://live.staticflickr.com/65535/52217150828_fcbf4cd71e_o.jpg
+商品廣告: (800px*500px) 
+https://live.staticflickr.com/65535/52216130327_5537f78d07_o.jpg
+ 
+
+>>綁定商品3: 
+
+id: 
+name: 麥卡倫12年雪莉雙桶單一純麥威士忌700ml
+type: c (其他)
+price: 1500元
+weight: 750g
+gender: other
+pic: 
+intro: 
+呈現其細緻獨特的香草、太妃糖、柑橘風味
+
+
+商品大圖: (640px*640px)
+https://live.staticflickr.com/65535/52217621295_5572aaac23_o.jpg
+商品小圖: (160px*160px)
+https://live.staticflickr.com/65535/52217139551_31f1786430_o.jpg
+商品廣告: (800px*500px) 
+https://live.staticflickr.com/65535/52217139331_f929567eed_o.jpg
+ 
+
+
+
+
+
+
+
+
+
+
+

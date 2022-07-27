@@ -1,0 +1,87 @@
+>>目標商品: 
+
+id: 
+name: 舒適水次元3刀片刮鬍刀架
+type: a (刮鬍刀)
+price: 200元
+weight: 50g
+gender: male
+pic: 
+intro: 
+創新保濕概念-保濕凝膠盒、流線握把
+
+商品大圖: (640px*640px)
+https://live.staticflickr.com/65535/52217404779_1f6686ec62_o.jpg
+商品小圖: (160px*160px)
+https://live.staticflickr.com/65535/52216125612_460a8ee12c_o.png
+商品廣告: (800px*500px)
+https://live.staticflickr.com/65535/52217147688_25befe0c58_o.jpg
+
+ 
+
+>>綁定商品1: 
+
+id: 
+name: 妮維雅 男性清爽控油洗面乳 
+type: a (刮鬍刀)
+price: 80元
+weight: 100g
+gender: male
+pic: 
+intro: 
+加強T字容易出油部位的調理、解決毛孔粗大阻塞等肌膚問題
+
+商品大圖: (640px*640px)
+https://live.staticflickr.com/65535/52217404769_e49584a151_o.jpg
+商品小圖: (160px*160px)
+https://live.staticflickr.com/65535/52217616020_58b80ed224_o.jpg
+商品廣告: (800px*500px)
+https://live.staticflickr.com/65535/52217616365_68af16a1a3_o.jpg
+
+>>綁定商品2: 
+
+id: 
+name: 3M Nexcare MEN 男性深層淨油洗面乳 
+type: a (刮鬍刀)
+price: 100元
+weight: 100g
+gender: male
+pic: 
+intro: 
+深層潔淨配方，深入毛孔洗淨髒污,汗水及老廢角質。
+
+商品大圖: (640px*640px)
+https://live.staticflickr.com/65535/52216125352_4940b549f5_o.jpg
+商品小圖: (160px*160px)
+https://live.staticflickr.com/65535/52217145988_dbf6ebdfa4_o.jpg
+商品廣告: (800px*500px)
+https://live.staticflickr.com/65535/52216125917_fdea669484_o.jpg
+
+>>綁定商品3: 
+
+id: 
+name: 露得清 男性深層去油洗面乳 
+type: a (刮鬍刀)
+price: 90元
+weight: 100g
+gender: male
+pic: 
+intro: 
+升級全效控油與純米去油科技，徹底洗淨髒污同時快速吸附多餘油脂。
+
+商品大圖: (640px*640px)
+https://live.staticflickr.com/65535/52217404754_b2f09374de_o.jpg
+商品小圖: (160px*160px)
+https://live.staticflickr.com/65535/52217404994_3df549f362_o.jpg
+商品廣告: (800px*500px)
+https://live.staticflickr.com/65535/52217135151_1faa478919_o.jpg
+
+
+
+
+
+
+
+
+
+
